@@ -1,0 +1,12 @@
+{
+  "id": "dev.antonxandre.metronometrainer",
+  "version": "1.0.10",
+  "vendor": "Antonxandre",
+  "type": "web",
+  "main": "index.html",
+  "title": "Tower Defense Game",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "bgColor": "#000000",
+  "resolution": "1920x1080"
+}
