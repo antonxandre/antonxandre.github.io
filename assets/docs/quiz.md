@@ -1,6 +1,6 @@
 # QUIZ: AntonXandre & Codex OS
 
-Teste seu conhecimento sobre o desenvolvedor e este sistema!
+Teste seu conhecimento sobre o antonxandre e este sistema!
 
 ## Perguntas e Respostas:
 
