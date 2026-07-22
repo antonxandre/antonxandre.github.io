@@ -27,8 +27,7 @@
 |  6   | PSX Pulse nos containers de skill     | [DONE]     | ██████ |
 |  7   | RAG Pipeline (langchain_dart + OBox)  | [DONE]     | ██████ |
 |  8   | Oracle Modal + Stream typewriter      | [DONE]     | ██████ |
-|  9   | Deploy Web (GitHub Pages / Vercel)    | [ QUEUE ]  | ------ |
-|  10  | iOS App Distribution via Firebase     | [ QUEUE ]  | ------ |
+|  9   | MELHORAR ORACULO                      | [ QUEUE ]  | ------ |
 +------+---------------------------------------+------------+--------+
 ```
 
